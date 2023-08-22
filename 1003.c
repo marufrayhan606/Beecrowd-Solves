@@ -1,4 +1,5 @@
-//1003 - Simple Sum'
+//1003 - Simple Sum
+
 #include <stdio.h>
 
 int main() {

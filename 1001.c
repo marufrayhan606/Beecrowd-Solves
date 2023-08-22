@@ -1,4 +1,5 @@
 //1001 - Extremely Basic
+
 #include <stdio.h>
 
 int main() {
