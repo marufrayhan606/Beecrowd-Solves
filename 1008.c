@@ -1,4 +1,4 @@
-//1007 - Difference
+//1008 - Salary
 #include <stdio.h>
 
 int main() {
