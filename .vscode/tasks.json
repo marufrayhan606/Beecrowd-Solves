@@ -13,7 +13,7 @@
                 ""
             ],
             "options": {
-                "cwd": "C:/msys64/mingw64/bin"
+                "cwd": ""C:/MinGW/bin/gcc.exe""
             },
             "problemMatcher": [
                 "$gcc"
